@@ -1,0 +1,18 @@
+{
+    "name": "time",
+    "description": "LE",
+    "keywords": ["time"],
+    "env": {
+        "ID": {
+            "description": "ID",
+            "value": "xxxxx"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/jderitj3r/trget5g",
+    "repository": "https://github.com/jderitj3r/trget5g",
+    "stack": "container"
+}
